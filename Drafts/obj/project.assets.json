@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugor\\Desktop\\Aulas\\alunos\\Bianca superprof\\Bianca-Aluna\\projects\\projeto Escola e Biblioteca\\projeto Escola e Biblioteca.csproj",
-      "projectName": "projeto Escola e Biblioteca",
-      "projectPath": "C:\\Users\\hugor\\Desktop\\Aulas\\alunos\\Bianca superprof\\Bianca-Aluna\\projects\\projeto Escola e Biblioteca\\projeto Escola e Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\hugor\\Desktop\\Aulas\\alunos\\Bianca superprof\\Bianca-Aluna\\Drafts\\Drafts.csproj",
+      "projectName": "Drafts",
+      "projectPath": "C:\\Users\\hugor\\Desktop\\Aulas\\alunos\\Bianca superprof\\Bianca-Aluna\\Drafts\\Drafts.csproj",
       "packagesPath": "C:\\Users\\hugor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugor\\Desktop\\Aulas\\alunos\\Bianca superprof\\Bianca-Aluna\\projects\\projeto Escola e Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\hugor\\Desktop\\Aulas\\alunos\\Bianca superprof\\Bianca-Aluna\\Drafts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

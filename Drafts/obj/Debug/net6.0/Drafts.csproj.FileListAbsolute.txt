@@ -1,0 +1,15 @@
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\obj\Debug\net6.0\Drafts.csproj.AssemblyReference.cache
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\obj\Debug\net6.0\Drafts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\obj\Debug\net6.0\Drafts.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\obj\Debug\net6.0\Drafts.AssemblyInfo.cs
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\obj\Debug\net6.0\Drafts.csproj.CoreCompileInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\bin\Debug\net6.0\Drafts.exe
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\bin\Debug\net6.0\Drafts.deps.json
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\bin\Debug\net6.0\Drafts.runtimeconfig.json
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\bin\Debug\net6.0\Drafts.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\bin\Debug\net6.0\ref\Drafts.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\bin\Debug\net6.0\Drafts.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\obj\Debug\net6.0\Drafts.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\obj\Debug\net6.0\ref\Drafts.dll
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\obj\Debug\net6.0\Drafts.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\Bianca superprof\Bianca-Aluna\Drafts\obj\Debug\net6.0\Drafts.genruntimeconfig.cache
